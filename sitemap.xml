@@ -3,32 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://guillaume-alvarez.github.io/regnum-christi/docs/examples/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://guillaume-alvarez.github.io/regnum-christi/docs/server/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://guillaume-alvarez.github.io/regnum-christi/docs/with-toc/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://guillaume-alvarez.github.io/regnum-christi/docs/without-toc/</loc>
-    <lastmod>2019-04-12T17:04:53+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://guillaume-alvarez.github.io/regnum-christi/docs/</loc>
-    <lastmod>2019-04-12T17:04:53+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://guillaume-alvarez.github.io/regnum-christi/</loc>
     <lastmod>2019-04-12T15:51:19+00:00</lastmod>
   </url>
