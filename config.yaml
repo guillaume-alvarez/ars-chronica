@@ -4,7 +4,7 @@ baseURL: https://guillaume-alvarez.github.io/regnum-christi/
 title: Regnum Christi
 theme: book
 disableKinds: ["taxonomy", "taxonomyTerm"]
-publishDir: docs
+#publishDir: docs
 # themesDir: ../..
 
 # Book configuration
