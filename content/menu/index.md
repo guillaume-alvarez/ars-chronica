@@ -10,4 +10,3 @@ headless: true
 - [Server]({{< relref "/docs/server.md" >}})
 - [Client]({{< relref "/docs/client.md" >}})
 - [Advanced]({{< relref "/docs/advanced.md" >}})  
-- [**Blog**]({{< relref "/posts" >}})

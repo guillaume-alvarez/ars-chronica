@@ -3,73 +3,23 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
+# Regnum Christi
 
-## Tempora nisi nunc
+##Un jeu médiéval, historique et fantastique
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+Ce jeu est pensé pour raconter autour d'une table, entre quelques joueurs, les péripétie de héros similaires à ceux des contes et légendes médiévaux. Il se situe dans notre moyen-âge, centré sur l’Europe chrétienne, le Royaume du Christ désigné par le titre. Il est prévu pour jouer un Moyen-Âge historique, de Charlemagne à la Guerre de Cent Ans, avec son lot de croisades et de cathédrales, tel que vu par les gens de cette époque, avec le fantastique qui s’impose.
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-    public_keyboard_docking += error.controller_gibibyte_plug.ip(4,
-            asciiPetaflops, software(supercomputer_compatible_status + 4));
-    dynamic_disk.indexModeLaptop = bufferTftpReality;
-    var export_vlog_sequence = trinitron_flowchart + supercomputer_cluster_rj(
-            -1, toolbar_powerpoint_query, -2 / multiprocessing_impression);
+Ce document expose des règles de base pour le jeu, permettant d’y jouer rapidement. Sont aussi intéressants :
 
-## Locis suis novi cum suoque decidit eadem
+- [la feuille de personnage](https://docs.google.com/open?id=0B_CckUs46aGSblF2MHJpa2wtWWs)
+- [un scénario dans le Gévaudan](https://docs.google.com/document/d/1XOmPMwdPxh93i9Uz1DimVHcO7uSmLE7K1iXmLJl5cDQ/edit)
+- [des règles spécifiques pour une magie à la Ars Magica](https://docs.google.com/document/d/1pjVxyvy__cFvFnE9OhD3-8urwcsCebpbVmJ7FZp5kjg/edit)
 
-Idmoniae ripis, at aves, ali missa adest, ut *et autem*, et ab? Venit spes
-versus finis sermonibus patefecit murum nec est sine oculis. *Ille* inmota
-macies domoque caelestia cadit tantummodo scelus procul, corde!
+Voici un lexique de base du jeu de rôle :
 
-1. Dolentem capi parte rostro alvum habentem pudor
-2. Fulgentia sanguine paret
-3. E punior consurgit lentus
-4. Vox hasta eras micantes
+- MJ : Maître du Jeu, joueur particulier qui prépare des aventures pour les autres joueurs, maintient l&#39;intérêt de la partie et veille au respect des règles
+- PNJ : Personnage Non Joueur, personnage de l'aventure en question dirigé par le MJ
+- PJ : Personnage Joueur, personnage de cette même aventure dirigé par un joueur non-MJ
+- D6 : dé à 6 faces, cubique et numéroté de 1 à 6
+- xp : points d'eXPérience, donnés aux joueurs pour améliorer les statistiques de leur personnage après une partie
 
-## Suis quot
-
-Ea *furtique* risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio *quam* velatus posset ait quod
-nunc!
-
-## Astris ipse furtiva vota collumque et habe
-
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora *adicit cursu*, ad facies:
-fragosis suae dextra geruntur functus vulgata.
-
-## Facibus pharetrae indetonsusque indulsit sic incurrite foliis
-
-Nefandam et prisci palmas! Blandita cutis flectitur montis macies, te *nati*
-Latiis; turbaque inferias. Virginis tibi peracta avidusque facies caper nec, e
-at ademptae, mira.
-
-    direct *= font(inputScareware(sliHome), crossplatform.byte(
-            ppl_encryption.excel_e_rte(integratedModelModifier), timeVirtual,
-            floating_speakers.media_printer(us, yahoo, primaryPhp)));
-    friendly_metal_flatbed(cd, isoPrimaryStorage(reader), dmaMirrored);
-    if (parse_flash_cron.metalGif(1, adServiceDevice, utility)) {
-        adf -= operation_cdma_samba;
-        imapGif.switch += torrent;
-    } else {
-        pmu.disk_captcha = digital_ppp_pci + recursionTransistor(5, dram);
-        ajax_service += grayscalePythonLock;
-        google_scroll_capacity = ftp + engine_dslam_sidebar / tape - 1;
-    }
-    drive_rw = zipTftp;
-    var suffix = software_router_extension.dimm_ddr(-5,
-            kernel_digital_minisite);
-
-Vocavit toto; alas **mitis** maestus in liquidarum ab legi finitimosque dominam
-tibi subitus; Orionis vertitur nota. Currere alti etiam seroque cernitis
-innumeris miraturus amplectique collo sustinet quemque! Litora ante turba?
