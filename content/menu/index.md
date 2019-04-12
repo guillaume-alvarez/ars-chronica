@@ -1,12 +1,11 @@
 ---
 headless: true
----
 
-- [**Introduction**]({{< relref "/" >}})
-- [Examples]({{< relref "/docs/examples.md" >}})
-  - [With Table of contents]({{< relref "/docs/with-toc.md" >}})
-  - [Without Table of Contents]({{< relref "/docs/without-toc.md" >}})  
-- **More Examples**
-- [Server]({{< relref "/docs/server.md" >}})
-- [Client]({{< relref "/docs/client.md" >}})
-- [Advanced]({{< relref "/docs/advanced.md" >}})  
+---
+* \[**Introduction**\]({{< relref "/" >}})
+* \[Système de jeu\]({{< relref "/docs/systeme/" >}})
+  * \[Difficultés\]({{< relref "/docs/systeme/diffictultes.md" >}})
+  * \[Caractéristiques des PJ\]({{< relref "/docs/systeme/personnages-joueurs.md" >}})
+  * \[Résolution d'action\]({{< relref "/docs/systeme/resolution.md" >}})
+  * \[Gestion de scène\]({{< relref "/docs/systeme/scenes.md" >}})
+* 
