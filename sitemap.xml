@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>https://guillaume-alvarez.github.io/regnum-christi/docs/systeme/surnaturel/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://guillaume-alvarez.github.io/regnum-christi/docs/systeme/systeme/</loc>
     <priority>0</priority>
   </url>
