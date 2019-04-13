@@ -2,7 +2,7 @@
 
 Cette échelle, répétée sur la feuille de personnage, est indicative car en pratique les comparaisons se font généralement avec des oppositions.
 
-Cela permet de créer très rapidement une opposition, car on peut le chiffrer directement en fonction de son statut (je vais voir le chef des gardes : 5 en combat, je vais voir le grand Khan célèbre pour avoir battu tous ses adversaires en duel : 7 en combat). Par contre un joueur ne devrait pas savoir le niveau exact d’une opposition avant de l’avoir affronté, tout au plus pourra-t-il savoir explicitement quelle est sa catégorie (maître 5-6, légendaire 7-10, etc.).
+Cela permet de créer très rapidement une opposition, car on peut la chiffrer directement en fonction de son statut (je vais voir le chef des gardes : opposition de 5 en combat, je vais voir le grand Khan célèbre pour avoir battu tous ses adversaires en duel : opposition de 7 en combat). Par contre un joueur ne devrait pas savoir le niveau exact d’une opposition avant de l’avoir affronté, tout au plus pourra-t-il savoir explicitement quelle est sa catégorie (maître 5-6, légendaire 7-10, etc.).
 
 * **1 évident** (ce que n’importe qui peut faire spontanément)
   * casser un couteau
