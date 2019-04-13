@@ -14,9 +14,9 @@ Avoir deux fois le même trait/outil à la création donne un trait/outil à la 
 
 Le **trait caractéristique** participe de la définition du personnage. Il est reformulé pour le rendre spécifique au personnage et reporté comme trait à +2 dans la feuille de personnage. Par exemple 'Rusé' pourra devenir 'Trouve toujours une échappatoire', 'Courageux' pourrait être 'Voit le danger en face, et lui sourit'.
 
-Le **milieu d'origine** détermine les thèmes de base. Bon sang ne saurait mentir, les chats ne font des chiens, etc. Il donne les statistiques de base pour les thèmes des différents domaines. Cela détermine aussi un des traits qui sera hérité des parents et est reporté comme trait à +2 dans la feuille de personnage.
+Le [**milieu d'origine**](#milieux-d-origine) détermine les thèmes de base. Bon sang ne saurait mentir, les chats ne font des chiens, etc. Il donne les statistiques de base pour les thèmes des différents domaines. Cela détermine aussi un des traits qui sera hérité des parents et est reporté comme trait à +2 dans la feuille de personnage.
 
-Les **mentors** donnent des bonus à différents thèmes, décidant des thèmes initiaux du personnage. Il est souhaitable que ces personnages soient toujours vivants, pour que les joueurs puissent interagir avec eux. Ils donnent un outil qui est reporté sur la feuille de personnage avec un score de +2. Ils sont liés au PJ par un serment qui est reporté sur la feuille de personnage avec un score de +2. Ils donnent +1 au score de leur classe sociale
+Les [**mentors**](#mentors) donnent des bonus à différents thèmes, décidant des thèmes initiaux du personnage. Il est souhaitable que ces personnages soient toujours vivants, pour que les joueurs puissent interagir avec eux. Ils donnent un outil qui est reporté sur la feuille de personnage avec un score de +2. Ils sont liés au PJ par un serment qui est reporté sur la feuille de personnage avec un score de +2. Ils donnent +1 au score de leur classe sociale
 
 Le **métier** peut donner un bonus à un thème et les outils correspondants s'il n'est pas couvert par les thèmes standards. Dans ce cas le métier est aussi un des traits du personnage, lui donnant un bonus dans tout ce qui y est lié. Ainsi un bûcheron aura un bonus pour la plupart des activités en forêt. Un chevalier est déjà couvert par les thèmes de base et n'a donc ni outil ni trait associé.
 
