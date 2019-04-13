@@ -23,10 +23,10 @@ Ce document expose des règles de base pour le jeu, permettant d’y jouer rapid
 
 Jeux de rôle :
 
-- Ars Magica [http://www.atlas-games.com/arm5/](http://www.atlas-games.com/arm5/)
-- Chronica Feudalis [http://chronicafeudalis.com/](http://chronicafeudalis.com/)
-- Miles Christi [http://www.legrog.org/jeux/miles-christi](http://www.legrog.org/jeux/miles-christi)
-- Fate (Spirit of the Century) [http://www.evilhat.com/home/spirit-of-the-century-2/](http://www.evilhat.com/home/spirit-of-the-century-2/)
+- [Ars Magica](http://www.atlas-games.com/arm5/)
+- [Chronica Feudalis](http://chronicafeudalis.com/)
+- [Miles Christi](http://www.legrog.org/jeux/miles-christi)
+- [Fate](https://fate-srd.fr/wikifate/fatecore/start)
 
 Livres :
 
