@@ -70,7 +70,7 @@ Chaque saison, le fief aussi peut utiliser 1xp pour monter ses thèmes ou ses ou
 
 Les joueurs décident de cette évolution avec l'accord du MJ. En cas de désaccord entre les joueurs il sera voté à la majorité absolue, le seigneur du fief pouvant trancher les égalités.
 
-# Atelier
+## Atelier
 
 Chaque PJ participant à une chronique dispose d'un **atelier** qu'il va améliorer pour pouvoir s'améliorer lui-même. L'atelier permet de situer, d'ancrer même, le PJ et de lui ajouter un caractère faisant de lui autre chose qu'un aventurier sans attaches. En échange de son implication le joueur est récompensé par des bonus pour la progression de son personnage.
 
@@ -88,7 +88,7 @@ Enfin quand il calcule son score pour une tâche donnée, si l'action est faite 
 
 > Georges, un jeune chevalier, a aménagé sa salle d'armes (son atelier) avec des quintaines et des lances de joute, lui donnant le trait 'Joute +2'. Quand il fait beau il les sort pour s'entraîner et mieux maîtriser son cheval, sa lance et son armure, et gagner alors 2xp pour un. C'est aussi là qu'il défit ses rivaux, sur le terrain qu'il connaît bien, et où il peut bénéficier de ce trait.
 
-# Voisins et adversaires
+## Voisins et adversaires
 
 Lors de la création du fief les joueurs vont aussi évoquer ses voisins. Ils vont être créés de la même manière qu'une opposition de scène, avec un score d'ardeur et des traits.
 
