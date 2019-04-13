@@ -11,3 +11,5 @@ fields:
   name: type
   label: type
   default: docs
+pages:
+- content/docs/systeme/niveaux-de-difficulté.md
