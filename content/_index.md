@@ -45,8 +45,17 @@ Articles :
 
 Voici un lexique de base du jeu de rôle :
 
-* MJ : Maître du Jeu, joueur particulier qui prépare des aventures pour les autres joueurs, maintient l'intérêt de la partie et veille au respect des règles
-* PNJ : Personnage Non Joueur, personnage de l'aventure en question dirigé par le MJ
-* PJ : Personnage Joueur, personnage de cette même aventure dirigé par un joueur non-MJ
-* D6 : dé à 6 faces, cubique et numéroté de 1 à 6
-* xp : points d'eXPérience, donnés aux joueurs pour améliorer les statistiques de leur personnage après une partie
+MJ
+: Maître du Jeu, joueur particulier qui prépare des aventures pour les autres joueurs, maintient l'intérêt de la partie et veille au respect des règles
+
+PNJ
+: Personnage Non Joueur, personnage de l'aventure en question dirigé par le MJ
+
+PJ
+: Personnage Joueur, personnage de cette même aventure dirigé par un joueur non-MJ
+
+D6
+: dé à 6 faces, cubique et numéroté de 1 à 6
+
+xp
+: points d'eXPérience, donnés aux joueurs pour améliorer les statistiques de leur personnage après une partie
