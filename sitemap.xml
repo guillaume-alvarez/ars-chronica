@@ -23,6 +23,31 @@
   </url>
   
   <url>
+    <loc>https://guillaume-alvarez.github.io/regnum-christi/docs/scenarios/peyzac/evenements/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guillaume-alvarez.github.io/regnum-christi/docs/scenarios/peyzac/introduction/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guillaume-alvarez.github.io/regnum-christi/docs/scenarios/peyzac/lieux/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guillaume-alvarez.github.io/regnum-christi/docs/scenarios/peyzac/lou-beste-de-peyzac/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guillaume-alvarez.github.io/regnum-christi/docs/scenarios/peyzac/personnages-joueurs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://guillaume-alvarez.github.io/regnum-christi/docs/systeme/echelle-des-scores/</loc>
     <priority>0</priority>
   </url>
