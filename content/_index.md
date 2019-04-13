@@ -19,6 +19,28 @@ Ce document expose des règles de base pour le jeu, permettant d’y jouer rapid
 * [un scénario dans le Gévaudan](https://docs.google.com/document/d/1XOmPMwdPxh93i9Uz1DimVHcO7uSmLE7K1iXmLJl5cDQ/edit)
 * [des règles spécifiques pour une magie à la Ars Magica](https://docs.google.com/document/d/1pjVxyvy__cFvFnE9OhD3-8urwcsCebpbVmJ7FZp5kjg/edit)
 
+## Inspirations
+
+Jeux de rôle :
+
+- Ars Magica [http://www.atlas-games.com/arm5/](http://www.atlas-games.com/arm5/)
+- Chronica Feudalis [http://chronicafeudalis.com/](http://chronicafeudalis.com/)
+- Miles Christi [http://www.legrog.org/jeux/miles-christi](http://www.legrog.org/jeux/miles-christi)
+- Fate (Spirit of the Century) [http://www.evilhat.com/home/spirit-of-the-century-2/](http://www.evilhat.com/home/spirit-of-the-century-2/)
+
+Livres :
+
+- [La civilisation médiévale](http://imrryran.wordpress.com/2011/01/14/la-civilisation-medievale-de-jacques-le-goff/)
+- [Héros et merveilles du Moyen Âge](http://imrryran.wordpress.com/2011/01/12/heros-et-merveilles-du-moyen-age-de-jacques-le-goff/)
+- [Art &amp; Academe](http://imrryran.wordpress.com/2010/12/30/art-academe/)
+- [Trois Christs](http://imrryran.wordpress.com/2011/10/02/trois-christs-de-valerie-mangin-denis-bajram-et-fabrice-neaud/)
+- [Une histoire du diable](http://imrryran.wordpress.com/2011/06/21/une-histoire-du-diable-de-robert-muchembled/)
+
+Articles :
+
+- [sur mon blog](http://imrryran.wordpress.com/category/jeu-de-role/regnum-christi/)
+
+
 ## Lexique
 
 Voici un lexique de base du jeu de rôle :
