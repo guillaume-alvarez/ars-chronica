@@ -30,15 +30,15 @@ L' **ardeur** initiale du personnage est décidée par le MJ. La valeur par déf
 
 | **Milieu** | **Combat** | **Lieux** | **Valeurs** | **Etats** | **Savoirs** | **Trait** |
 | --- | --- | --- | --- | --- | --- | --- |
-| Clergé | 0 | 1 | 2 | clercs 1 | 3 | Réfléchi |
-| Chevaliers | 3 | 2 | 1 | Guerriers 1Seigneurs 1 | 0 | Brave |
-| Courtisans | 2 | 0 | 3 | Seigneurs 1 | 1 | Secret |
-| Artisans | 1 | 2 | 3 | Bourgeois 1 | 0 | Adroit |
-| Marchands | 0 | 1 | 3 | Bourgeois 1Seigneurs 1 | 1 | Hâbleur |
-| Paysans | 1 | 3 | 2 | Paysans 1 | 0 | Travailleur |
-| Brigands | 2 | 1 | 1 | Paysans 1Païens 1Guerriers 1 | 0 | Discret |
-| Saltimbanques | 0 | 1 | 2 | Seigneurs 1 Paysans 1 Bourgeois 1 | 1 | Rusé |
-| Animaux | 2 | 3 | 0 | Païens 1Paysans 1 | 0 | Sauvage |
+| Clergé | 0 | 1 | Foi 2 Pouvoir 2 | Clercs 2 | 3 | Réfléchi |
+| Chevaliers | 3 | 2 | Honneur 2 | Guerriers 2 Seigneurs 2 | 0 | Brave |
+| Courtisans | 2 | 0 | Pouvoir 2 Amout 2 Corruption 2 | Seigneurs 2 | 1 | Secret |
+| Artisans | 1 | 2 | Fortune 2 Amour 2 Foi 2 | Bourgeois 2 | 0 | Adroit |
+| Marchands | 0 | 1 | Fortune 2 Pouvoir 2 Corruption 2 | Bourgeois 2 Seigneurs 2 | 1 | Hâbleur |
+| Paysans | 1 | 3 | Foi 2 Honneur 2 | Paysans 2 | 0 | Travailleur |
+| Brigands | 2 | 1 | Fortune 2 | Paysans 2 Païens 2 Guerriers 2 | 0 | Discret |
+| Saltimbanques | 0 | 1 | Amour 2 Corruption 2 | Seigneurs 2 Paysans 2 Bourgeois 2 | 1 | Rusé |
+| Animaux | 2 | 3 | - | Païens 2 Paysans 2 | 0 | Sauvage |
 
 Les personnages âgés appliquent les modificateurs suivants :
 
