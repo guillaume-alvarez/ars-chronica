@@ -23,10 +23,10 @@ Note : Il n'y a pas d'action 'gratuite' en cas de surprise d'un des adversaires,
 **Exemples :**
 
 > Un jeune chevalier monte la garde dans le camp fortifié à la veille de la bataille, il veille à ce qu'aucun ennemi n'y pénètre. Son score sera son thème _Guerre (2)_ plus son trait _oeil de lynx (+2)_. Cela lui lui fait un résultat de 4 au prix d'un point d'ardeur (pour le trait) et d'une description de la scène :
-> > Assis près du feu, je cherche à percer l'obscurité de la nuit, passent autour quelques soldats éméchés, je scrute leurs visages et les reconnaissant sans danger cherche une menace dans les ténèbres.
+> _Assis près du feu, je cherche à percer l'obscurité de la nuit, passent autour quelques soldats éméchés, je scrute leurs visages et les reconnaissant sans danger cherche une menace dans les ténèbres._
 
 > A l'inverse l'espion voulant entrer dans le camp utilisera son thème _Discrétion (2)_, son outil _chausses feutrées (+1)_ et son trait _pas vu pas pris (+2)_. Pour deux points d'ardeur (un trait et un outil) il obtient un résultat de 5. 
-> > Pas à pas, feutrés comme il se doit, habillé de noir, me déplaçant comme un chat dans la nuit, j'évite toute lumière qui me révélerait aux yeux des gardes. Si je peux les voir alors il me verraient aussi, et me prendraient à mon propre jeu. Je cherche la bonne tente et vais y pénétrer, trouver le défaut de la cuirasse et m'y engouffrer.
+> _Pas à pas, feutrés comme il se doit, habillé de noir, me déplaçant comme un chat dans la nuit, j'évite toute lumière qui me révélerait aux yeux des gardes. Si je peux les voir alors il me verraient aussi, et me prendraient à mon propre jeu. Je cherche la bonne tente et vais y pénétrer, trouver le défaut de la cuirasse et m'y engouffrer._
 
 
 **En cas d'égalité entre deux PJ, ils échouent tous les deux et le MJ peut créer un contexte de valeur égale au score des PJ.**
@@ -34,5 +34,5 @@ Note : Il n'y a pas d'action 'gratuite' en cas de surprise d'un des adversaires,
 **Exemples :**
 
 > Marcel et Raoul, deux PJ, commencent à se battre dans une auberge. Ils ne obtiennent tous les deux un score de 5. Vu cette égalité le MJ a une réussite avec une marge de 5. Il décide d'imposer le contexte _auberge en feu +5_ :
-> > Vous vous battez salement, prenant autour de vous godets, couverts et chaises. Cela n'est guère efficace et pire, tout à votre combat, vous renversez une chandelle sur la paille du sol. Les autres convives vous regardent et n'y font pas attention jusqu'à ce que les flammes lèches les poutres de de l'auberge !
+> _Vous vous battez salement, prenant autour de vous godets, couverts et chaises. Cela n'est guère efficace et pire, tout à votre combat, vous renversez une chandelle sur la paille du sol. Les autres convives vous regardent et n'y font pas attention jusqu'à ce que les flammes lèches les poutres de de l'auberge !_
 
