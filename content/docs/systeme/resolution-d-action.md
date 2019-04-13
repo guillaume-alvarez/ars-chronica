@@ -16,6 +16,8 @@ Quand un joueur veut connaître un score pour une action il considère son score
 
 Si le score du PJ est supérieur à la difficulté il réussit son action, sinon c'est l'adversaire (généralement le MJ mais peut-être un autre PJ) qui réussit. La marge de réussite est la différence entre le score du vainqueur et de son opposition.
 
+**En cas d'égalité entre deux PJ, ils échouent tous les deux et le MJ peut créer un contexte de valeur égale au score des PJ.**
+
 Quand un PJ compte dans son score une faiblesse de son adversaire, il dépense 1 point d'ardeur qui est gagné par son adversaire.
 
 Note : Il n'y a pas d'action 'gratuite' en cas de surprise d'un des adversaires, d'avantage en cas de plan particulièrement bien pensé, de bonus en cas d'infiltration de nuit, ceci peut par contre être géré comme un contexte de la scène.
