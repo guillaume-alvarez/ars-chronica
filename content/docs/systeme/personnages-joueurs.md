@@ -19,6 +19,121 @@ Les **traits** , **outils, serments** , **faiblesses** et **contextes** existent
 
 Décrire en annexe de la feuille de personnage les traits et outils apporte aussi une facilité à leur utilisation. Cela permet de se rappeler des utilisations rares mais spectaculaire et de maintenir leur cohérence au final du temps.
 
+## Thèmes
+
+Cette section détaille les différents thèmes que possèdent tous les personnages. Ils sont répartis en catégories pour plus de simplicité.
+
+Il faut bien noter qu'il ne s'agit pas de compétences des personnages mais des thèmes littéraires et esthétiques dans lesquels ils s'illustrent habituellement.
+
+### Les savoirs
+
+Il s'agit des connaissances que les clercs ou autres érudits peuvent apprendre à l'école cathédrale ou à l'université la plus proche.
+
+**Theologia** : le divin et de ses actions, aussi bien la Bible que les saints et la liturgie religieuse
+
+**Artes Liberales** : logique, rhétorique et connaissances de base nécessaires au savant, par exemple astronomie, géométrie, rhétorique, grammaire, etc.
+
+**Philosophia** : tenants et aboutissants de l'univers sensible, physiques et moraux
+
+**Lingua Latina** : manipulation du latin et connaissance des classiques romains, éloquence auprès des savants
+
+**Medicina** : fonctionnement corps humain, soins, maladies
+
+**Langues** : parler dans un dialecte étranger, avec un accent particulier
+
+### Le combat
+
+Cela recouvre des thèmes guerriers, plutôt musclés.
+
+**Duel** : combat singulier entre deux combattants
+
+**Guerre** : combat organisé entre deux groupes entraînés
+
+**Siège** : assaut et défense d'une position fortifiée
+
+**Chasse** : pistage et mise à mort de giber
+
+**Bagarre** : combat désorganisé entre un nombre indéterminé de groupes
+
+**Assassinat** : tuer une personne en particulier sans être pris.
+
+Les thèmes de combat ne dépendent pas tant de l'arme utilisée que du contexte, du type de combat. L'arme utilisée est représentée par le bonus de l'outil correspondant.
+
+Ces thèmes (du moins Bagarre, Duel et Guerre) illustrent généralement des combats au corps à corps ou l'intimidation d'un adversaire en le menaçant physiquement. Guerre et Siège permettent également de cerner les aspects tactiques et stratégiques de ce genre de confrontation.
+
+### Les lieux
+
+Ces différents thèmes illustrent là où le personnage a traîné ses pieds, là où il est renommé, les paysages qu'il connaît bien et où s'illustre habituellement.
+
+**Château** : une place forte de bois ou de pierre, siège du pouvoir d'un seigneur
+
+**Ville** : une communauté indépendante, fondée sur le commerce et l'artisanat, grouillante de monde et d'activité par rapport aux villages et fermes qui peuplent le monde
+
+**Désert** : roches et dunes de sable parsemé d'oasis, sous un soleil écrasant
+
+**Montagne** : les hauts pics enneigés et les plateaux arides qui dominent l'Europe
+
+**Mer** : l'étendue d'eau immense, crainte et respectée
+
+**Forêt** : un labyrinthe vert d'arbres et d'herbes hautes, abri des bêtes et des voleurs
+
+Ces thèmes peuvent évidemment être utilisés pour des actions se déroulant dans ce cadre, utilisant les spécificités de chaque type de lieu.
+
+### Les états
+
+Ce sont les thèmes décrivant les différentes classes sociales, parties de la population médiévale. Chacune a ses propres coutumes, ses propres intérêts, sa propre culture, jusqu'à sa propre langue.
+
+**Clercs** : éduqués, parfois prêtres ou moines, ils forment l'armature intellectuelle de la société
+
+**Seigneurs** : ils possèdent la terre, peuvent être aussi bien des courtisans, des généraux d'armée ou de paisibles gestionnaires
+
+**Guerriers** : nobles ou mercenaires, ils savent se battre et le font de tournoi en bataille, prenant les armes aussi bien contre leurs égaux que contre des paysans.
+
+**Bourgeois** : peuple des villes par excellence, ils possèdent leur échoppe, que ce soit un atelier de tisserand ou le centre d'un empire commercial
+
+**Paysans** : ceux qui travaillent la terre, qui récoltent les bienfaits de la forêt, les petites mains qui nourrissent le monde
+
+**Païens** : hors de la société, exclus par tous, ils survivent sur les marges, d'expédients et de métiers de mauvais aloi
+
+### Les valeurs
+
+Ces thèmes illustrent ce en quoi croient les personnages, leurs raisons d'agir, leur idéal personnel.
+
+**Foi** : la croyance en Notre-Seigneur-Jésus-Christ -mort-sur-la-croix mène les coeurs purs jusqu'au cieux
+
+**Honneur** : le seul bien qu'on ne puisse prendre à un honnête homme
+
+**Amour** : il fait tourner le monde, est chanté par les trouvères, même s'il peut souvent être en butte à la morale publique
+
+**Pouvoir** : comme Dieu gouverne les âmes, il faut bien gouverner les corps des hommes
+
+**Fortune** : croissez et multipliez-vous, l'aisance sur cette terre n'est que le reflet de la bonne Fortune qu Dieu nous accorde
+
+**Corruption** : foin de ces simagrées, il n'est de plaisir que dans le vice, l'ordre établi est un corset pour qui se veut humain
+
+### Connaissances
+
+En sus des thèmes standards, listés de manière exhaustives, les personnages peuvent avoir différentes connaissances. Ces connaissances peuvent aussi bien s'appliquer à une ville, un royaume, une organisation, un phénomène surnaturel, etc. Traités comme des thèmes dans le cadre du système de jeu, il s'agit d'une liste ouverte, lorsqu'elles sont utilisées elles permettent aux joueurs d'approfondir un point de l'univers.
+
+Par exemple un joueur ayant 5 en 'connaissance de Paris' connaîtra un certain nombre de gens louches, lorsqu'il aura besoin qu'on lui rende un service il pourra nommer/décrire le personnage auquel il s'adresse, le créant à la volée. De la même manière, un joueur ayant 'connaissance des Trolls' pourra donner des informations sur un troll que les joueurs vont affronter, notamment ses points faibles, son lieu de résidence, etc.
+
+Plus classiquement ces connaissances peuvent être utilisées par le MJ pour donner des informations aux joueurs sur un sujet lié à l'univers du jeu ou du scénario.
+
+Tout comme les thèmes plus standards, les connaissances peuvent s'utiliser avec un outil adéquat (un livre en est l'exemple le plus évident) et un trait lié (thème 'connaissance de Paris' + trait 'luxure' pour trouver une dame de petite vertu).
+
+#### Connaissances locales
+
+On les acquiert en fréquentant ou habitant un lieu. Elles permettent de connaître les gens ou les endroits d'intérêt, les coutumes et les langues locales, l'histoire régionale, etc. Pour maintenir l'équité entre les joueurs il est important de garder ces connaissances au même niveau par rapport au temps passé dans le lieu. Par exemple si les PJ voyagent dans toute l'Europe on préférera des connaissances par royaume. Si toutes les aventures se déroulent autour d'une ville comme Paris les connaissances seront celles des différents quartiers et des bourgs proches. Ceci dit même dans ce cadre avoir connaissance du Royaume de France est toujours équilibré car ne s'applique implicitement qu'aux dignitaires du royaume présents à Paris, pas aux coutumes du Bas-Languedoc.
+
+#### Connaissances d'organisation
+
+Elles sont similaires aux connaissances locales mais s'appliquent aux membres, histoires et domaines d'une organisations et non d'un lieu. De la même manière leur ampleur dépend du jeu. Par exemple si les PJ voyagent dans toute l'Europe on préférera des connaissances de l'Église ou des Templiers. Si toutes les aventures se déroulent autour d'une ville comme Paris les connaissances seront celles des différentes guildes, de l'université, etc. Ceci dit même dans ce cadre avoir connaissance des Templiers est toujours équilibré car ne s'appliquera implicitement qu'aux Templiers de Paris.
+
+#### Connaissances magiques
+
+Certains personnages peuvent évidemment avoir des connaissances sortant de la réalité. Par exemple un vieil ermite vivant reclus en bordure de forêt peut être un expert en matière de fées, de dryades, de leprechauns ou autres spécificités. Il est plus dur de dimensionner ces connaissances car leur ampleur en terme de jeu n'est pas évident quand elles sont choisies. Par contre il est toujours possible de les élargir ou les restreindre pour équilibrer après quelques aventures, quand on a une meilleure vue de leur utilité.
+
+
 ## Traits
 
 Les **traits** définissent le personnage. Ils représentent ce qu'il est, à ses yeux et à ceux de ses proches. Ils n'évoluent que lentement. Ils ont un score qui peut s'ajouter à celui du thème quand il est lié à l'action.
