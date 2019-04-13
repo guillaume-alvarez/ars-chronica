@@ -17,7 +17,6 @@ Ce document expose des règles de base pour le jeu, permettant d’y jouer rapid
 
 * [la feuille de personnage](https://docs.google.com/open?id=0B_CckUs46aGSblF2MHJpa2wtWWs)
 * [un scénario dans le Gévaudan](https://docs.google.com/document/d/1XOmPMwdPxh93i9Uz1DimVHcO7uSmLE7K1iXmLJl5cDQ/edit)
-* [des règles spécifiques pour une magie à la Ars Magica](https://docs.google.com/document/d/1pjVxyvy__cFvFnE9OhD3-8urwcsCebpbVmJ7FZp5kjg/edit)
 
 ## Inspirations
 
