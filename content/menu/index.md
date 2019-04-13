@@ -11,3 +11,5 @@ headless: true
   * [Surnaturel]({{< relref "/docs/systeme/surnaturel.md" >}})
 * [Création de personnage]({{< relref "/docs/creation-de-personnage.md" >}})
 * [Chroniques]({{< relref "/docs/chroniques.md" >}})
+* [Variante: Ars Magica]({{< relref "/docs/ars-magica.md" >}})
+
