@@ -1,9 +1,10 @@
 +++
 date = "2019-04-13T08:00:11+00:00"
-title = "Niveaux de difficulté"
+title = "Échelle des scores"
 
 +++
-**Échelle des scores**
+
+# Échelle des scores
 
 Le choix des nombres se fait pour avoir tout à la fois une échelle large et un symbolisme traditionnel (nombres premiers, souvent utilisés dans la bible ou autres récits mythiques). L’échelle étant restreinte et mentionnée sur la feuille de personnage, les joueurs l’ont aisément en tête.
 
@@ -26,7 +27,7 @@ Le choix des nombres se fait pour avoir tout à la fois une échelle large et un
   * forger Excalibur, l’épée d’Arthur que lui seul peut manier et qui donne droit à la couronne de Bretagne
   * trotter dans le ciel sur les nuages
 
-La progression dans l’échelle se fait de manière géométrique : plus le score est haut plus il est difficile de l’augmenter. En cas de montée ou descente d’un score sur cette échelle, monter (ou descendre dans le cas d’un score négatif) d’un niveau coûte \[niveau suivant\]. Cela s’applique par exemple lors de gains d’expérience ou de changement de traits suite à une action importante.
+La progression dans l’échelle se fait de manière géométrique : plus le score est haut plus il est difficile de l’augmenter. En cas de montée ou descente d’un score sur cette échelle, monter (ou descendre dans le cas d’un score négatif) d’un niveau coûte `niveau suivant`. Cela s’applique par exemple lors de gains d’expérience ou de changement de traits suite à une action importante.
 
 Par ailleurs même une difficulté de 1 ne sera pas forcément atteignable si le personnage est blessé, fatigué, entravé, sur un terrain difficile, etc.
 
