@@ -1,1 +1,16 @@
-@import "variables"
+@import url('https://fonts.googleapis.com/css?family=UnifrakturMaguntia');
+@import url('https://fonts.googleapis.com/css?family=MedievalSharp');
+
+//@import "variables"
+
+h1 {
+  font-family: UnifrakturMaguntia;
+  font-style: normal;
+  font-variant: normal;
+}
+
+h2 {
+  font-family: MedievalSharp;
+  font-style: normal;
+  font-variant: normal;
+}
