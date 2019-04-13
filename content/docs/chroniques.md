@@ -26,9 +26,11 @@ Un des PJ sera le seigneur du fief. C'est à dire celui qui dirige le fief en ti
 
 ## Évolution des PJ
 
-**La règle de base est que les PJ s'améliorent en ayant passé du temps à faire des choses. Le temps passé est normalement compté en nombre de séances de jeu (~aventures, scénarios) qui correspondent aux actions importantes qu'ils ont entreprises.**
+**La règle de base est que les PJ s'améliorent en ayant passé du temps à faire des choses. Le temps passé est normalement compté en nombre de saisons jouées (printemps, été, automne, hiver) qui correspondent aux actions importantes entreprises par les personnages.**
 
-En fin de séance de jeu chaque PJ gagne des points d'expérience. Ils peuvent les utiliser pour monter un thème, un trait ou un outil ayant été mis en valeur durant l'aventure. Pour monter un score il faut autant d'expérience que le niveau suivant. Par exemple pour monter un score de 4 à 5 il faut cumuler sur plusieurs aventures 5xp.
+En fin de saison de jeu chaque PJ gagne des points d'expérience (_xp_). Ils peuvent les utiliser pour monter un thème, un trait ou un outil ayant été mis en valeur durant l'aventure.
+
+La progression des scores se fait de manière géométrique : plus le score est haut plus il est difficile de l'augmenter. En cas de montée ou descente d’un score sur cette échelle, monter (ou descendre dans le cas d’un score négatif) d'un niveau coûte _le niveau suivant_ en points. Cela s'applique par exemple lors de gains d’expérience ou de changement de traits suite à une action importante. Par exemple pour monter un score de 4 à 5 il faut cumuler 5xp sur plusieurs aventures.
 
 Les joueurs peuvent attribuer leurs points d'expérience à des thèmes ou des traits utilisés durant l'aventure, ou même leur patron. Ils peuvent aussi monter des outils si ceux-ci ont été améliorés durant la séance (une épée reforgée, un lien avec un PNJ particulièrement soigné). Un trait augmenté suite à une aventure peut être une réputation, un trait de caractère qui est particulièrement entré en compte durant la partie. La description d'un trait ou d'un outil doit toujours compter autant de phrases que son score. Il ne faut pas oublier que c'est cette description qui permet ou limite son utilisation en jeu.
 
