@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Regnum Christi</title>
+    <link>https://guillaume-alvarez.github.io/regnum-christi/docs/</link>
+    <description>Recent content in Docs on Regnum Christi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://guillaume-alvarez.github.io/regnum-christi/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://guillaume-alvarez.github.io/regnum-christi/docs/systeme/echelle-des-scores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guillaume-alvarez.github.io/regnum-christi/docs/systeme/echelle-des-scores/</guid>
+      <description>Échelle des scores Le choix des nombres se fait pour avoir tout à la fois une échelle large et un symbolisme traditionnel (nombres premiers, souvent utilisés dans la bible ou autres récits mythiques). L’échelle étant restreinte et mentionnée sur la feuille de personnage, les joueurs l’ont aisément en tête.
+ 1 évident (ce que n’importe qui peut faire spontanément)  casser un couteau monter un cheval sellé conduit par quelqu’un d’autre  2 enfantin (ce qu’un enfant peut faire spontanément)  allumer et activer le feu de la forge monter un cheval à cru mais conduit par quelqu’un d’autre  3 habituel (ce qu’un humain peut faire avec un peu d’habitude)  forger un couteau monter et conduire un cheval  5 maîtrisé (ce qu’un maître du domaine peut faire)  forger une épée contrôler un cheval dans la mêlée d’une bataille  7 légendaire (la matière des légendes, fantastique léger)  forger Durandal, l’épée de Roland qui brise le roc galoper à travers toute une forêt comme Brocéliande  11 divin (un miracle divin, un prodige, un sort de high fantasy)  forger Excalibur, l’épée d’Arthur que lui seul peut manier et qui donne droit à la couronne de Bretagne trotter dans le ciel sur les nuages   La progression dans l’échelle se fait de manière géométrique : plus le score est haut plus il est difficile de l’augmenter.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://guillaume-alvarez.github.io/regnum-christi/docs/systeme/gestion-de-scene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guillaume-alvarez.github.io/regnum-christi/docs/systeme/gestion-de-scene/</guid>
+      <description>Gestion des scènes L&amp;rsquo;aventure est découpée en différentes scènes. Une scène est une unité de lieu, de temps et d&amp;rsquo;action. Cela peut aussi bien être une discussion dans une taverne autour d&amp;rsquo;un bon repas, un voyage sans encombre à travers la forêt, une bataille rangée, etc. Le découpage en scènes est la responsabilité du MJ, ce qui s&amp;rsquo;y déroule est pour la meilleure part l&amp;rsquo;affaire des joueurs.
+Le changement de scène sera l&amp;rsquo;affaire des joueurs ou des MJ, quand l&amp;rsquo;action qui en est le sujet se termine, que l&amp;rsquo;un ou l&amp;rsquo;autre veut changer de lieu ou avancer (ou reculer en flashback) l&amp;rsquo;histoire dans le temps.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://guillaume-alvarez.github.io/regnum-christi/docs/systeme/personnages-joueurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guillaume-alvarez.github.io/regnum-christi/docs/systeme/personnages-joueurs/</guid>
+      <description>Caractéristiques des PJ Le personnage est caractérisé par différentes statistiques :
+ les thèmes , comment il résout les problèmes les traits , ce qui définit son personnage les outils , ce qui peut l&amp;rsquo;aider les serments , qui le lient pour le meilleur ou pour le pire à d&amp;rsquo;autres humains les faiblesses , qui sont ses défauts, points faibles et blessures l&amp;rsquo; ardeur , ce qu&amp;rsquo;il peut dépenser  Les thèmes donnent un score de base qui est comparé à la difficulté.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://guillaume-alvarez.github.io/regnum-christi/docs/systeme/resolution-d-action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guillaume-alvarez.github.io/regnum-christi/docs/systeme/resolution-d-action/</guid>
+      <description>Résolution d&amp;rsquo;action Quand un joueur veut que son PJ fasse une action, il se peut que le résultat ne soit pas évident. C&amp;rsquo;est le cas notamment quand il y a une opposition passive (traverser une rivière sans pont) ou active (un groupe de soldat qui l&amp;rsquo;empêche de passer par le pont). Dans ce cas le MJ doit appliquer les règles suivantes pour déterminer le résultat de cette action.
+La règle pour réussir une action est :</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://guillaume-alvarez.github.io/regnum-christi/docs/systeme/systeme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guillaume-alvarez.github.io/regnum-christi/docs/systeme/systeme/</guid>
+      <description>Système de jeu Ce système a pour but de narrer des histoires rappelant les contes médiévaux, suites de hauts et de bas des protagonistes. Si une aventure peut s&amp;rsquo;achever dans l&amp;rsquo;épique, il doit y avoir avant cela plusieurs trébuchements des personnages principaux et la mise en valeurs de leurs faiblesses physiques et morales.
+Afin de ne pas entraver le jeu, il permet sans jets de dés de juger de la réussite d&amp;rsquo;une action.</description>
+    </item>
+    
+  </channel>
+</rss>
