@@ -16,8 +16,6 @@ Quand un joueur veut connaître un score pour une action il considère son score
 
 Si le score du PJ est supérieur à la difficulté il réussit son action, sinon c'est l'adversaire (généralement le MJ mais peut-être un autre PJ) qui réussit. La marge de réussite est la différence entre le score du vainqueur et de son opposition.
 
-**En cas d'égalité entre deux PJ, ils échouent tous les deux et le MJ peut créer un contexte de valeur égale au score des PJ.**
-
 Quand un PJ compte dans son score une faiblesse de son adversaire, il dépense 1 point d'ardeur qui est gagné par son adversaire.
 
 Note : Il n'y a pas d'action 'gratuite' en cas de surprise d'un des adversaires, d'avantage en cas de plan particulièrement bien pensé, de bonus en cas d'infiltration de nuit, ceci peut par contre être géré comme un contexte de la scène.
@@ -29,6 +27,11 @@ Note : Il n'y a pas d'action 'gratuite' en cas de surprise d'un des adversaires,
 
 > A l'inverse l'espion voulant entrer dans le camp utilisera son thème _Discrétion (2)_, son outil _chausses feutrées (+1)_ et son trait _pas vu pas pris (+2)_. Pour deux points d'ardeur (un trait et un outil) il obtient un résultat de 5. 
 > > Pas à pas, feutrés comme il se doit, habillé de noir, me déplaçant comme un chat dans la nuit, j'évite toute lumière qui me révélerait aux yeux des gardes. Si je peux les voir alors il me verraient aussi, et me prendraient à mon propre jeu. Je cherche la bonne tente et vais y pénétrer, trouver le défaut de la cuirasse et m'y engouffrer.
+
+
+**En cas d'égalité entre deux PJ, ils échouent tous les deux et le MJ peut créer un contexte de valeur égale au score des PJ.**
+
+**Exemples :**
 
 > Marcel et Raoul, deux PJ, commencent à se battre dans une auberge. Ils ne obtiennent tous les deux un score de 5. Vu cette égalité le MJ a une réussite avec une marge de 5. Il décide d'imposer le contexte _auberge en feu +5_ :
 > > Vous vous battez salement, prenant autour de vous godets, couverts et chaises. Cela n'est guère efficace et pire, tout à votre combat, vous renversez une chandelle sur la paille du sol. Les autres convives vous regardent et n'y font pas attention jusqu'à ce que les flammes lèches les poutres de de l'auberge !
