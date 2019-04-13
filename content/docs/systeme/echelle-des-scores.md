@@ -1,9 +1,3 @@
----
-date = "2019-04-13T08:00:11+00:00"
-title = "Échelle des scores"
-
----
-
 # Échelle des scores
 
 Le choix des nombres se fait pour avoir tout à la fois une échelle large et un symbolisme traditionnel (nombres premiers, souvent utilisés dans la bible ou autres récits mythiques). L’échelle étant restreinte et mentionnée sur la feuille de personnage, les joueurs l’ont aisément en tête.

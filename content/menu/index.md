@@ -2,10 +2,10 @@
 headless: true
 
 ---
-* \[**Introduction**\]({{< relref "/" >}})
-* \[Système de jeu\]({{< relref "/docs/systeme/" >}})
-  * \[Difficultés\]({{< relref "/docs/systeme/diffictultes.md" >}})
-  * \[Caractéristiques des PJ\]({{< relref "/docs/systeme/personnages-joueurs.md" >}})
-  * \[Résolution d'action\]({{< relref "/docs/systeme/resolution.md" >}})
-  * \[Gestion de scène\]({{< relref "/docs/systeme/scenes.md" >}})
+* [**Introduction**]({{< relref "/" >}})
+* [Système de jeu]({{< relref "/docs/systeme/systeme.md" >}})
+  * [Échelle des scores]({{< relref "/docs/systeme/echelle-des-scores.md" >}})
+  * [Personnages Joueurs]({{< relref "/docs/systeme/personnages-joueurs.md" >}})
+  * [Résolution d'action]({{< relref "/docs/systeme/resolution-d-action.md" >}})
+  * [Gestion de scène]({{< relref "/docs/systeme/gestion-de-scene.md" >}})
 * 
