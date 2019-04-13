@@ -10,3 +10,4 @@ headless: true
   * [Gestion de scène]({{< relref "/docs/systeme/gestion-de-scene.md" >}})
   * [Surnaturel]({{< relref "/docs/systeme/surnaturel.md" >}})
 * [Création de personnage]({{< relref "/docs/creation-de-personnage.md" >}})
+* [Chroniques]({{< relref "/docs/chroniques.md" >}})
