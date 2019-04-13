@@ -8,4 +8,5 @@ Dans certaines conditions ce score peut être modifié d'un jet de dé positif o
 
 Si le score du personnage atteint au moins la difficulté alors l'action est réussie, si il est inférieur elle échoue. Le MJ peut utiliser la marge entre le score et la difficulté pour déterminer un degré de réussite ou d'échec dans le cadre d'une description de l'action.
 
+![Lancelot combattant](../lancelot.jpg)
 
