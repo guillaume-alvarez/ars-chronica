@@ -1,8 +1,8 @@
-+++
+---
 date = "2019-04-13T08:00:11+00:00"
 title = "Échelle des scores"
 
-+++
+---
 
 # Échelle des scores
 
