@@ -12,7 +12,7 @@ Une origine nouvelle est possible :
 
 | **Milieu** | **Combat** | **Lieux** | **Valeurs** | **Etats** | **Savoirs** | **Trait** |
 | --- | --- | --- | --- | --- | --- | --- |
-| Magi | 1 | 0 | 1 | Païens 1Clercs 1 | 3 | Étrange |
+| Magi | 1 | 0 | Pouvoir 1 | Païens 1 Clercs 1 | 3 | Étrange |
 
 Des mentors adaptés peuvent aussi être utilisés, suivant les règles suivantes
 
