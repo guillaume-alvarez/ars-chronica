@@ -10,6 +10,8 @@ La règle pour réussir une action est :
 
 **score du PJ > score autre PJ** en cas de duel entre personnages joueurs
 
+## Calcul des scores
+
 Quand un joueur veut connaître un score pour une action il considère son score dans le thème correspondant. Si il le souhaite il peut y ajouter le score d'un outil, d'un trait, d'un thème secondaire, d'un contexte correspondant à l'action et d'une faiblesse de son adversaire, pour le prix d'un point d'ardeur par bonus ainsi obtenu et d'une description de l'action impliquant le trait et/ou l'outil sélectionnés.
 
 **Dans tous les cas l'utilisation d'un trait ou d'un outil doit suivre une description le mettant en valeur, leur but est de donner du relief aux actions et pas juste un bonus/malus systématique. Le MJ doit juger qu'un trait s'applique bien une action en particulier et valide l'utilisation de chaque trait/outil au prix d'un point d'ardeur.**
@@ -28,6 +30,7 @@ Note : Il n'y a pas d'action 'gratuite' en cas de surprise d'un des adversaires,
 > A l'inverse l'espion voulant entrer dans le camp utilisera son thème _Discrétion (2)_, son outil _chausses feutrées (+1)_ et son trait _pas vu pas pris (+2)_. Pour deux points d'ardeur (un trait et un outil) il obtient un résultat de 5. 
 > _Pas à pas, feutrés comme il se doit, habillé de noir, me déplaçant comme un chat dans la nuit, j'évite toute lumière qui me révélerait aux yeux des gardes. Si je peux les voir alors il me verraient aussi, et me prendraient à mon propre jeu. Je cherche la bonne tente et vais y pénétrer, trouver le défaut de la cuirasse et m'y engouffrer._
 
+## Egalité entre PJ
 
 **En cas d'égalité entre deux PJ, ils échouent tous les deux et le MJ peut créer un contexte de valeur égale au score des PJ.**
 
