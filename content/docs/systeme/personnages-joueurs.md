@@ -131,7 +131,9 @@ Elles sont similaires aux connaissances locales mais s'appliquent aux membres, h
 
 #### Connaissances magiques
 
-Certains personnages peuvent évidemment avoir des connaissances sortant de la réalité. Par exemple un vieil ermite vivant reclus en bordure de forêt peut être un expert en matière de fées, de dryades, de leprechauns ou autres spécificités. Il est plus dur de dimensionner ces connaissances car leur ampleur en terme de jeu n'est pas évident quand elles sont choisies. Par contre il est toujours possible de les élargir ou les restreindre pour équilibrer après quelques aventures, quand on a une meilleure vue de leur utilité.
+Certains personnages peuvent évidemment avoir des connaissances liées au surnaturel. Par exemple un vieil ermite vivant reclus en bordure de forêt peut être un expert en matière de fées, de dryades, de leprechauns ou autres spécificités. Il pourrait aussi connaître des potions, remèdes ou onguents particulièrement puissants, quelques malédictions égyptiennes ou même avoir accès à la parole divine.
+
+Il est plus dur de dimensionner ces connaissances car leur ampleur en terme de jeu n'est pas évident quand elles sont choisies. Par contre il est toujours possible de les élargir ou les restreindre pour équilibrer après quelques aventures, quand on a une meilleure vue de leur utilité.
 
 
 ## Traits
