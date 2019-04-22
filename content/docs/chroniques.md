@@ -84,9 +84,9 @@ Enfin quand il calcule son score pour une tâche donnée, si l'action est faite 
 
 **Exemple :**
 
-> Jonas, un vieil érudit besogneux, a constitué avec talent et application sa bibliothèque (c'est le nom de son atelier). Il y a collectionné une série d'ouvrages savants lui donnant le trait 'Théologie +3' et de cartes lui donnant 'Géographie +2'. Quand il cherche un lieu précis il le fait depuis sa bibliothèque pour pouvoir utiliser le second trait. Il utilise le premier trait pour annoter sa bible, car chaque xp dépensé lui permet de l'augmenter de 3xp.
+> Jonas, un vieil érudit besogneux, a constitué avec talent et application sa bibliothèque (c'est le nom de son atelier). Il y a collectionné _une série d'ouvrages savants +3_ et _un répertoire de cartes géographiques +2_. Quand il cherche un lieu précis il le fait depuis sa bibliothèque pour pouvoir utiliser le second trait. Il utilise le premier trait pour annoter sa bible, car chaque xp dépensé lui permet de l'augmenter de 3xp
 
-> Georges, un jeune chevalier, a aménagé sa salle d'armes (son atelier) avec des quintaines et des lances de joute, lui donnant le trait 'Joute +2'. Quand il fait beau il les sort pour s'entraîner et mieux maîtriser son cheval, sa lance et son armure, et gagner alors 2xp pour un. C'est aussi là qu'il défit ses rivaux, sur le terrain qu'il connaît bien, et où il peut bénéficier de ce trait.
+> Georges, un jeune chevalier, a aménagé sa salle d'armes (son atelier) avec _des quintaines et des lances de joute +2_, lui permettant de s'entrainer à la joute. Quand il fait beau il les sort pour s'entraîner et mieux maîtriser son cheval, sa lance et son armure, et gagner alors 2xp pour un. C'est aussi là qu'il défit ses rivaux, sur le terrain qu'il connaît bien, et où il peut bénéficier de ce trait.
 
 ## Voisins et adversaires
 
