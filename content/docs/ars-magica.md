@@ -53,7 +53,11 @@ La description de celui-ci et l'explication est laissée au meneur. Cela peut am
 
 Le vis, la fatigue et autres consommables permettant d'améliorer les réussites des magi sont assimilés dans l'ardeur du personnage, aucune règles spécifique n'est nécessaire. Le vis du convent/alliance correspond aux thèmes, traits, outils ou points d'ardeur du fief, qui peuvent être utilisés par les PJ avec l'accord de la majorité des PJ présents, comme indiqué dans les règles de base.
 
-## Laboratoire
+## Évolution des personnages
+
+On applique [les règles de base des chroniques]({{< relref "/docs/chroniques.md#évolution-des-pj" >}}) sauf qu'au lien de gagner 1xp par aventure, c'est 1xp par saison. Les joueurs sont responsables de décrire l'évolution de leurs personnages saison par saison.
+
+### Laboratoire
 
 Le laboratoire est ici l'atelier. Du fait du système de jeu l'accent est moins mis sur la planification à long terme que sur la caractérisation des personnages. C'est à dire que contrairement à Ars Magica il ne s'agit pas d'un mini-jeu permettant aux joueurs les plus habiles d'augmenter leur puissance mais d'un moyen de rendre chaque personnage plus unique.
 
