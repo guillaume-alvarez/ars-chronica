@@ -30,15 +30,15 @@ L' **ardeur** initiale du personnage est décidée par le MJ. La valeur par déf
 
 | **Milieu** | **Combat** | **Lieux** | **Valeurs** | **Etats** | **Savoirs** | **Trait** |
 | --- | --- | --- | --- | --- | --- | --- |
-| Clergé | 0 | 1 | Foi 2 Pouvoir 2 | Clercs 2 | 3 | Réfléchi |
-| Chevaliers | 3 | 2 | Honneur 2 | Guerriers 2 Seigneurs 2 | 0 | Brave |
+| Clergé | 0 | Ville 2 | Foi 2 Pouvoir 2 | Clercs 2 | 3 | Réfléchi |
+| Chevaliers | 3 | Château 2 Forêt 2 | Honneur 2 | Guerriers 2 Seigneurs 2 | 0 | Brave |
 | Courtisans | 2 | 0 | Pouvoir 2 Amout 2 Corruption 2 | Seigneurs 2 | 1 | Secret |
-| Artisans | 1 | 2 | Fortune 2 Amour 2 Foi 2 | Bourgeois 2 | 0 | Adroit |
-| Marchands | 0 | 1 | Fortune 2 Pouvoir 2 Corruption 2 | Bourgeois 2 Seigneurs 2 | 1 | Hâbleur |
-| Paysans | 1 | 3 | Foi 2 Honneur 2 | Paysans 2 | 0 | Travailleur |
+| Artisans | 1 | Ville 2 Château 2 | Fortune 2 Amour 2 Foi 2 | Bourgeois 2 | 0 | Adroit |
+| Marchands | 0 | Ville 2 | Fortune 2 Pouvoir 2 Corruption 2 | Bourgeois 2 Seigneurs 2 | 1 | Hâbleur |
+| Paysans | 1 | Château 2 Forêt 2 Montagne 2 | Foi 2 Honneur 2 | Paysans 2 | 0 | Travailleur |
 | Brigands | 2 | 1 | Fortune 2 | Paysans 2 Païens 2 Guerriers 2 | 0 | Discret |
-| Saltimbanques | 0 | 1 | Amour 2 Corruption 2 | Seigneurs 2 Paysans 2 Bourgeois 2 | 1 | Rusé |
-| Animaux | 2 | 3 | - | Païens 2 Paysans 2 | 0 | Sauvage |
+| Saltimbanques | 0 | Forêt 2 | Amour 2 Corruption 2 | Seigneurs 2 Paysans 2 Bourgeois 2 | 1 | Rusé |
+| Animaux | 2 | Forêt 2 Montagne 2 Désert 2 | - | Païens 2 Paysans 2 | 0 | Sauvage |
 
 Les personnages âgés appliquent les modificateurs suivants :
 
