@@ -3,11 +3,11 @@ title: Introduction
 type: docs
 
 ---
-# Regnum Christi
+# Ars Chronica
 
 ## Un jeu médiéval, historique et fantastique
 
-Ce jeu est pensé pour raconter autour d'une table, entre quelques joueurs, les péripétie de héros similaires à ceux des contes et légendes médiévaux. Il se situe dans notre moyen-âge, centré sur l’Europe chrétienne, le Royaume du Christ désigné par le titre. Il est prévu pour jouer un Moyen-Âge historique, de Charlemagne à la Guerre de Cent Ans, avec son lot de croisades et de cathédrales, tel que vu par les gens de cette époque, avec le fantastique qui s’impose.
+Ce jeu est pensé pour raconter autour d'une table, entre quelques joueurs, les péripétie de héros similaires à ceux des contes et légendes médiévaux. Il se situe dans notre moyen-âge, centré sur l’Europe chrétienne. Il est prévu pour jouer un Moyen-Âge historique, de Charlemagne à la Guerre de Cent Ans, avec son lot de croisades et de cathédrales, tel que vu par les gens de cette époque, avec le fantastique qui s’impose.
 
 ![Salter map](mappsalter-l.jpg)
 
@@ -15,7 +15,7 @@ Ce jeu est pensé pour raconter autour d'une table, entre quelques joueurs, les 
 
 Ce document expose des règles de base pour le jeu, permettant d’y jouer rapidement. Sont aussi intéressants :
 
-* [la feuille de personnage](RegnumChristiFDP.pdf)
+* [la feuille de personnage](ArsChronicaFDP.pdf)
 * [un scénario dans le Gévaudan]({{< relref "/docs/scenarios/peyzac/lou-beste-de-peyzac.md" >}})
 
 ## Inspirations
