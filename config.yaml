@@ -1,7 +1,7 @@
 # hugo server --themesDir ... --baseURL=http://0.0.0.0:1313/example
 
-baseURL: https://guillaume-alvarez.github.io/regnum-christi/
-title: "Regnum Christi"
+baseURL: https://guillaume-alvarez.github.io/ars-chronica/
+title: "Ars Chronica"
 theme: book
 disableKinds: ["taxonomy", "taxonomyTerm"]
 #publishDir: docs
