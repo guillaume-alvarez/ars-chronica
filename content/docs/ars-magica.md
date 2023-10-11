@@ -2,7 +2,7 @@
 
 [Ars Magica](http://www.atlas-games.com/arm5/) est un excellent jeu de rôle médiéval-fantastique se déroulant dans un contexte historique. Son univers est très riche, très documenté. il souffre cependant d'un système assez lourd, très calculatoire.
 
-Regnum Christi peut très bien être utilisé en lieu et place du système standard pour les compagnons et grogs. Voici juste quelques indications pour retrouver le même plaisir à joueur un magus…
+Ars Chronica peut très bien être utilisé en lieu et place du système standard pour les compagnons et grogs. Voici juste quelques indications pour retrouver le même plaisir à joueur un magus…
 
 ## Création de personnage
 
