@@ -51,5 +51,5 @@ En cas d'action contre une **opposition** ou un **PJ** :
 11. si un PJ concède la défaite avant une nouvelle action contre l'opposition il gagne 1 pt d' **ardeur**
 
 
-Regnum Christi - Imrryran - 2011/2019
+Ars Chronica - Imrryran - 2011/2023
 
