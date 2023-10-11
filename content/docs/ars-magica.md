@@ -39,7 +39,7 @@ Enfin, conformément aux règles de base, les dés doivent toujours être lancé
 
 ### Échec critique et crépuscule
 
-Les règles d'Ars Magica dont bon usage du 'botch' en cas de 0 sur un dé de stress. Dans le cadre de Regnum Christi cela revient à considérer comme un échec critique tout résultat de `6-1` ou `1-6` sur les dés, quel que soit le score par ailleurs. Cela permet de donner un tour plus risqué aux actions surnaturelles utilisant les dés.
+Les règles d'Ars Magica dont bon usage du 'botch' en cas de 0 sur un dé de stress. Dans le cadre de Ars Chronica cela revient à considérer comme un échec critique tout résultat de `6-1` ou `1-6` sur les dés, quel que soit le score par ailleurs. Cela permet de donner un tour plus risqué aux actions surnaturelles utilisant les dés.
 
 Dans le cas particulier des sorts, le résultat Crépuscule est déterminé en ajoutant le résultat des dés (+5 ou -5) au score sur l'action de lancer de sort, et interprété de la façon suivante :
 
@@ -63,4 +63,4 @@ Le laboratoire est ici l'atelier. Du fait du système de jeu l'accent est moins 
 
 Les magi peuvent y créer leurs sorts, talismans, familiers, etc. qui seront leurs outils, donnant un bonus dépendant du temps passé dans le laboratoire. Il est intéressant, selon le temps que les joueurs sont prêts à y consacrer, de demander une description de chaque objet entamé dans le laboratoire et d'augmenter cette description d'une phrase pour chaque saison passée dessus. Cela donne beaucoup plus de personnalité à ce qui ne serait sinon qu'un 'bâton d'obsidienne +3'.
 
-Il est aussi possible d'améliorer son laboratoire, par exemple en l'enrichissant de livres ou d'objets rares. Ces améliorations permettent d'augmenter son efficacité selon les règles standard d'atelier de Regnum Christi.
+Il est aussi possible d'améliorer son laboratoire, par exemple en l'enrichissant de livres ou d'objets rares. Ces améliorations permettent d'augmenter son efficacité selon les règles standard d'atelier de Ars Chronica.
