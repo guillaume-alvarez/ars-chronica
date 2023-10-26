@@ -12,6 +12,7 @@ headless: true
 * [Création de personnage]({{< relref "/docs/creation-de-personnage.md" >}})
 * [Chroniques]({{< relref "/docs/chroniques.md" >}})
 * [**Résumé des règles**]({{< relref "/docs/resume-des-regles.md" >}})
+* [**Feuille de personnage**](ArsChronicaFDP.pdf)
 ---
 * [Variante: Ars Magica]({{< relref "/docs/ars-magica.md" >}})
 ---
