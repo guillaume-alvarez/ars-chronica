@@ -73,7 +73,7 @@ Caractéristiques :
 * patron : Saint Georges (chevaliers) 1
 * outils : Épée +2, Lance +2
 * trait : “Que Ne Faiblisse” (devise familiale, très évocatrice) +3
-faiblesse : Avarice -2
+* faiblesse : Avarice -2
 
 ## Cassian
 
