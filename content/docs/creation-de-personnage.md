@@ -32,7 +32,7 @@ L' **ardeur** initiale du personnage est décidée par le MJ. La valeur par déf
 | --- | --- | --- | --- | --- | --- | --- |
 | Clergé | 0 | Ville 2 | Foi 2 Pouvoir 2 | Clercs 2 | 3 | Réfléchi |
 | Chevaliers | 3 | Château 2 Forêt 2 | Honneur 2 | Guerriers 2 Seigneurs 2 | 0 | Brave |
-| Courtisans | 2 | 0 | Pouvoir 2 Amout 2 Corruption 2 | Seigneurs 2 | 1 | Secret |
+| Courtisans | 2 | 0 | Pouvoir 2 Amour 2 Corruption 2 | Seigneurs 2 | 1 | Secret |
 | Artisans | 1 | Ville 2 Château 2 | Fortune 2 Amour 2 Foi 2 | Bourgeois 2 | 0 | Adroit |
 | Marchands | 0 | Ville 2 | Fortune 2 Pouvoir 2 Corruption 2 | Bourgeois 2 Seigneurs 2 | 1 | Hâbleur |
 | Paysans | 1 | Château 2 Forêt 2 Montagne 2 | Foi 2 Honneur 2 | Paysans 2 | 0 | Travailleur |
