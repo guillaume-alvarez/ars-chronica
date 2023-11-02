@@ -81,7 +81,7 @@ Il s’exprime par de courtes phrases rapides assénées à son interlocuteur, p
 * Sans scrupules +3
 * Riche +3
 * Arbalette +5
-* Ardeur 6 points
+* Ardeur 10 points
 
 #### Jéhanne
 

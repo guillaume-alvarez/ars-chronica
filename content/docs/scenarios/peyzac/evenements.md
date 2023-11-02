@@ -59,6 +59,6 @@ Il y a différentes étapes auxquelles les PJ peuvent assister ou s’opposer :
 * Chef de guerre rusé +5
 * Soldats aguerris +3
 * De l'or à foison +2
-* Ardeur 6 points
+* Ardeur 10 points
 
 
