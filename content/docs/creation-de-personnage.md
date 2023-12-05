@@ -50,7 +50,7 @@ Les personnages âgés appliquent les modificateurs suivants :
 | **Mentor** | **Thème +1** | **Thème +1** | **Outil +2** |
 | --- | --- | --- | --- |
 | Archer | Chasse | Guerre | Arc ou arbalète |
-| Artisan | Commerce | Ville | Trousse d'outils |
+| Artisan | Fortune | Ville | Trousse d'outils |
 | Assassin | Assassinat | Seigneurs | Dague empoisonnée |
 | Bûcheron | Bagarre | Forêt | Hache |
 | Chasseur | Chasse | Forêt | Piège |
