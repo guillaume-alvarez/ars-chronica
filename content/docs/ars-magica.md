@@ -55,7 +55,7 @@ Le vis, la fatigue et autres consommables permettant d'améliorer les réussites
 
 ## Évolution des personnages
 
-On applique [les règles de base des chroniques]({{< relref "/docs/chroniques.md#évolution-des-pj" >}}) sauf qu'au lien de gagner 1xp par aventure, c'est 1xp par saison. Les joueurs sont responsables de décrire l'évolution de leurs personnages saison par saison.
+On applique [les règles de base des chroniques]({{< relref "/docs/chroniques.md#évolution-des-pj" >}}), 1xp par saison. Les joueurs sont responsables de décrire l'évolution de leurs personnages saison par saison.
 
 ### Laboratoire
 
