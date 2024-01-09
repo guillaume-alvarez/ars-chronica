@@ -7,10 +7,10 @@ Le score d'un PJ sur une action est la somme de :
 - un **trait** si inclus dans la description, en dépensant 1pt d' **ardeur**
 - un **thème secondaire** en rapport avec l'action, en dépensant 1pt d' **ardeur**
 - un ou plusieurs **contextes** si inclus dans la description, en dépensant 1pt d' **ardeur** pour chacun si nécessaire
-- un **jet de dé** éventuellement
+- un **jet de dé** éventuellement (forcément si l'effet voulu est surnaturel)
 - une **faiblesse** de l'adversaire en dépensant 1pt d' **ardeur** (donné à l'adversaire)
 
-Une action est réussie si le score du PJ est supérieur ou égale à la difficulté (de _0 - évident_ à _11 - magique_).
+Une action est réussie si le score du PJ est supérieur ou égal à la difficulté (de _0 - évident_ à _11 - magique_).
 
 Un **contexte** est créé par les joueurs au début d'une scène :
 
@@ -49,7 +49,4 @@ En cas d'action contre une **opposition** ou un **PJ** :
 9. si un PJ ou l'opposition a encore de l'ardeur ou a réussi son action, il peut faire une nouvelle action (cf 1.)
 10. si un PJ ou l'opposition doit perdre plus d'ardeur que ce qui lui en reste il est hors-jeu et perd la scène
 11. si un PJ concède la défaite avant une nouvelle action contre l'opposition il gagne 1 pt d' **ardeur**
-
-
-Ars Chronica - Imrryran - 2011/2023
 
